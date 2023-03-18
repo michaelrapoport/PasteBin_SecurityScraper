@@ -12,7 +12,7 @@ class Config(object):
     # You can give an absolute path -- if you do, comment out the current KEYWORDS_FILE
     # If running a cron outside of your home directory, I recommend specifying the full path
 
-    # KEYWORDS_FILE = "./keywords.txt"
+    # KEYWORDS_FILE = "keywords.txt"
     
     # Or you can edit the existing keywords.txt 
     KEYWORDS_FILE = os.path.join(os.getcwd(), "keywords.txt")

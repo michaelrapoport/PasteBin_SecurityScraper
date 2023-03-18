@@ -2,7 +2,7 @@ breach
 compromise
 datadump
 leakz
-dataleak
+data leak
 SSN
 DL
 driverlicense
